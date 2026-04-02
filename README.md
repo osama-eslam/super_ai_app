@@ -65,7 +65,7 @@ This application is a powerhouse of intelligence, consolidating world-class AI m
 ---
 
 <p align="center">
-  <b>Developed with Precision by Osama Ahmed</b><br>
+  <b>Developed with Precision by Osama Eslam</b><br>
   <i>Pushing the boundaries of mobile intelligence.</i><br>
   🛡️ <b>Verified GPG Secure Commit</b>
 </p>
