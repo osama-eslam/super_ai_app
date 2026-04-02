@@ -25,9 +25,9 @@
   <i>"Where sophisticated design meets artificial intelligence."</i>
 </p>
 
-| 🤖 Smart Assistant | 🎨 Generative Art | 🛠️ AI Toolset |
+| 🤖 AI Intelligent Interfaces | 🎭 Neural Creative Arts | 🛠️ Smart Cognitive Tools |
 | :---: | :---: | :---: |
-| <img src="assets/1.png" width="280" alt="Chat UI" /> | <img src="assets/2.png" width="280" alt="Image Gen" /> | <img src="assets/3.png" width="280" alt="AI Tools" /> |
+| <img src="assets/1.png" width="280" alt="Interface 1" /> | <img src="assets/2.png" width="280" alt="Interface 2" /> | <img src="assets/3.png" width="280" alt="Interface 3" /> |
 
 ---
 
@@ -58,3 +58,14 @@ This application is a powerhouse of intelligence, consolidating world-class AI m
 | **Architecture** | **Clean Architecture (Scalable & Maintainable)** |
 
 ---
+
+> [!IMPORTANT]
+> **Showcase Repository:** This public repository is for demonstration and documentation purposes. The core source code is hosted in a **Private Repository**. For enterprise licensing, source code purchase, or professional inquiries, please contact the developer directly.
+
+---
+
+<p align="center">
+  <b>Developed with Precision by Osama Ahmed</b><br>
+  <i>Pushing the boundaries of mobile intelligence.</i><br>
+  🛡️ <b>Verified GPG Secure Commit</b>
+</p>
